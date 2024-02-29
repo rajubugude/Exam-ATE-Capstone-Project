@@ -1,25 +1,42 @@
-Automation Testing Capstone Project
-Create a Testing Framework for Sporty Shoes Website
-Name : Raju Bugude
-Email : rabugude@cisco.com
-Github :  https://github.com/rajubugude/Exam-ATP-Capstone-Project.git
+# Automation Testing Capstone Project
 
-Problem Statement and Motivation Real-Time Scenario:
- Sporty Shoes has an e-commerce website that has the following existing features in place:  I used https://neemans.com/ for the task.
-• Users can view products  , I wrote some functionality for that also .
-• If users want to purchase something, they can first sign up and then log in
-• Users can add multiple items to their cart and do a checkout. 
-• Users have a dashboard that lets them edit their profile, view past purchases, and view their cart 
-• Once users do a checkout, the items are cleared from their cart and an order is generated which is stored in their order history The above application is already functional. What is needed now is to add a testing layer that will ensure that everything is passed through QA.
+## Project Overview
+This project aims to create a comprehensive testing framework for the Sporty Shoes website. The website already has various features implemented, and the goal is to ensure their proper functioning through automated testing.
 
-Task:
-The following tasks outline the testing framework creation: 
-1. Add additional code to the original project to add a REST API module. This module will have two API endpoints: 
-• Retrieve the list of all products in the store 
-• Retrieve the list of all registered users
-2. Create Selenium scripts to test all the pages in the web app 
-3. Do unit testing for all the backend classes and methods
-4. Create JMeter scripts to do load testing of the homepage and the product detail page
+### Problem Statement and Motivation Real-Time Scenario:
+Sporty Shoes has an e-commerce website similar to https://neemans.com/, with existing functionalities such as:
+- Users can view products.
+- Users can sign up, log in, and perform purchases.
+- Users can manage their profile, view past purchases, and manage their cart.
+- Orders are generated and stored in the user's order history upon checkout.
+
+### Task:
+The project involves the creation of a testing framework, including:
+1. Adding a REST API module to the project with two endpoints:
+   - Retrieve the list of all products in the store.
+   - Retrieve the list of all registered users.
+2. Creating Selenium scripts to test all pages in the web application.
+3. Performing unit testing for all backend classes and methods.
+4. Developing JMeter scripts for load testing of the homepage and the product detail page.
+
+## Project Details
+
+### Name:
+Raju Bugude
+
+### Email:
+rabugude@cisco.com
+
+### Github Repository:
+[https://github.com/rajubugude/Exam-ATP-Capstone-Project.git](https://github.com/rajubugude/Exam-ATP-Capstone-Project.git)
+
+## Getting Started
+To get started with testing the Sporty Shoes website, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rajubugude/Exam-ATP-Capstone-Project.git
+
 
 
 
